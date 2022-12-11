@@ -31,3 +31,6 @@ bin/
 ### IntelliJ ###
 .idea/
 *.iml
+
+### Maven out ###
+target/
